@@ -18,6 +18,9 @@ WebAdvJS
 
 #### Classes
 - Week 01
+
+Intro to JavaScript, Programming Language (interpreter and compiler), intro to browser (control your internet browser like a pro), Command-line tools.
+
 - Week 02
 - Week 03
 - Week 04
