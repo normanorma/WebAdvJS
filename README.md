@@ -12,7 +12,7 @@ WebAdvJS
 - Be true to your work, your friends, and your teacher
 
 #### Evaluations
-- Punctuation; please be in class on time, respect your teacher and friends. Waiting slows down the class, and is a stupid thing to do.
+- Punctuation; please be in class on time, respect your teacher and friends. Waiting slows down the class. It affects the whole learning process.
 - Weekly homework
 - Projects
 
