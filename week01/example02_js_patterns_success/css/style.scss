@@ -1,0 +1,22 @@
+#appContainer {
+	padding: 15px;
+}
+
+#inputContainer {
+	margin: 0px 0px 15px 0px;
+}
+
+.hidden {
+  display: none;
+}
+
+.project {
+	list-style-type: none;
+	.projectTitle {
+	  font-size: 1.3em;
+	  margin-right: 5px;
+	}
+	.projectProgressBar {
+  		margin-right: 5px;
+	}
+}

@@ -1,0 +1,12 @@
+.hidden {
+  display: none;
+}
+
+.projectTitle {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
+
+.projectProgressBar {
+  margin-right: 5px;
+}
