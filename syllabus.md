@@ -23,7 +23,7 @@ In the period of 15 weeks, we will dive into the most basic and bare-bone of Jav
 
 The class starts with iterating basic JS statements, demystifying data-types, class, built-in functions and nuances among other interpretive programming languages. We will learn how to write proper JS that allows the code to be maintainable, readable and efficient.
 
-By the nature of design/tech class, syllabus modification is normal later in the semester. Please understand that this syllabus is being treated as guideline. Nothing is set in stone.
+By the nature of design/tech class, syllabus modification is normal later in the semester. Please note that this syllabus is being treated as guideline. Nothing is set in stone.
 
 #### Required tools:
   * Google Chrome v32+ or s Chrome Canary (We will not use other internet browsers unless needed).
@@ -45,7 +45,8 @@ By the nature of design/tech class, syllabus modification is normal later in the
   * Delivering Goods | https://www.youtube.com/watch?v=R8W_6xWphtw
 
 #### Resources: (Libraries, Frameworks, etc, etc)
-  * [jQuery](http://jquery.com)
+  * [How do I write .md (Markdown) document](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * [jQuery, the most popular JS library yet?](http://jquery.com)
   * [Zepto, a lightweight jQuery](http://zeptojs.com/)
   * [You might not need jQuery](http://youmightnotneedjquery.com/)
   * [Twitter Bootstrap](http://getbootstrap.com/)
@@ -61,12 +62,31 @@ By the nature of design/tech class, syllabus modification is normal later in the
   * [Three.js](http://threejs.org/)
   * [Timbre.js](http://mohayonao.github.io/timbre.js/)
   * [Buzz.js](http://buzz.jaysalvat.com/)
+  * [Node.js](http://nodejs.org)
   * [Parse](http://parse.com)
   * [MongoDB](http://www.mongodb.org/)
   * [Bento](http://www.bentobox.io/)
 
 #### Course Outlines:
 ***Inspired by [Patricio's Simulation Studio](https://github.com/patriciogonzalezvivo/sims2014) document***
+
+|Week|Topic|Prep|Assignment(s)|Remark(s)|
+|---|---|---|---|---|
+|08.27|Tools of the trade and kindergarten JS: statements, expressions, data-types and manipulations, DOM interaction, Class vs. Object vs. Instance, Closures, return, patterns, built-in APIs, repeitions, loops, operations, OOP, etc, etc. | Sublime Text 2, Prepros, GitHub, Google Chrome | Build something similiar to: [wtf](http://whatthefuckismywearablestrategy.com/)||
+|09.03|Elementary JS: Events, client-side external APIs, in-depth DOM interaction, File setup guildlines, Work environment, preprocessing, live-reloading.|Prepros| Create a new object with behaviors. ||
+|09.10|Introducing concept of MVC (Model-View-Controller). Write a tracking app together in class.|MVC framework|||
+|09.17|||||
+|09.24|||||
+|10.01|||||
+|10.08|||||
+|10.15|||||
+|10.22|||||
+|10.29|||||
+|11.05|||||
+|11.12|||||
+|11.19|||||
+|12.03|||||
+|12.10|||||
 
 #### Final Grade Calculation: 
   * Participation/Attendance 20%
