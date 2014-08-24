@@ -52,6 +52,8 @@ By the nature of design/tech class, syllabus modification is normal later in the
   * [Twitter Bootstrap](http://getbootstrap.com/)
   * [PureCSS](http://purecss.io/)
   * [Skeleton, a super lean css framework](http://www.getskeleton.com/)
+  * [Underscore.js, a JS util](http://underscorejs.org/)
+  * [Lo-Dash, the new underscore](http://lodash.com/)
   * [MV* Framwork Comparison](http://todomvc.com/)
   * [Angular.js](https://angularjs.org/)
   * [Phonegap, native apps done with web](http://phonegap.com/)
@@ -75,7 +77,7 @@ By the nature of design/tech class, syllabus modification is normal later in the
 |08.27|Tools of the trade and kindergarten JS: statements, expressions, data-types and manipulations, DOM interaction, Class vs. Object vs. Instance, Closures, return, patterns, built-in APIs, repeitions, loops, operations, OOP, etc, etc. | Sublime Text 2, Prepros, GitHub, Google Chrome | Build something similiar to: [wtf](http://whatthefuckismywearablestrategy.com/)||
 |09.03|Elementary JS: Events, client-side external APIs, in-depth DOM interaction, File setup guildlines, Work environment, preprocessing, live-reloading.|Prepros| Create a new object with behaviors. ||
 |09.10|Introducing concept of MVC (Model-View-Controller). Write a tracking app together in class.|MVC framework|||
-|09.17|||||
+|09.17|MVC Cont. finish tracking app||||
 |09.24|||||
 |10.01|||||
 |10.08|||||
