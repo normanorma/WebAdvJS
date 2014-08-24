@@ -1,12 +1,18 @@
 ### Web Advanced: JavaScript Fall 2014
 PGTE 5505 – Section A (Wednesday 7:00pm - 9:40pm)
+
 Parsons The New School for Design
+
 School of Art, Media and Technology
 
 **Instructor: Apon Palanuwech** ([palaa159@newschool.edu](mailto:palaa159@newschool.edu))
+
 **Off-class Support: Ziqu Zou** ([zouz372@newschool.edu](mailto:zouz372@newschool.edu))
+
 **Period: 15 Weeks**
+
 ---
+
 #### Course Description:
 Over the the past 10 years, the internet is a huge birthplace for applications–from online services to social media channels, useless to artsy. Among influences that catalyze and trigger the possibility is JavaScript, a young powerful programming language for web and beyond. This course serves as a gateway to modern JavaScript, delving into it simplicity and complexity.  The class will together investigate both client-side and server-side (Node.js) programming as a crucial part of design process of making lively data-driven applications that live in different platforms. By learning these, students will be able to employ the knowledge to create self-initiated projects, or at least having a better understanding of how data is handled.  Students will incorporate visual design, user experience design, interaction design and programming to bring idea to life. The outcome of the course focuses on practical experience, students should be able to design, build and deploy JavaScript applications. They should also be able to handpick different components and work stacks or frameworks that will quicken a process of code implementation. Web Advanced JavaScript aims to produce creative front-end developers, technologists, artists and entrepreneurs with adequate understanding in web development.
 
