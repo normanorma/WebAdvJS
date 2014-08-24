@@ -4,9 +4,11 @@
 	Parsons The New School for Design
 	School of Art, Media and Technology
 
-	**Instructor: Apon Palanuwech** ([palaa159@newschool.edu](mailto:palaa159@newschool.edu))
-	**Off-class Support (by appointment): Ziqu Zou** ([zouz372@newschool.edu](mailto:zouz372@newschool.edu))
-	**Period: 15 Weeks**
+**Instructor: Apon Palanuwech** ([palaa159@newschool.edu](mailto:palaa159@newschool.edu))
+
+**Off-class Support (by appointment): Ziqu Zou** ([zouz372@newschool.edu](mailto:zouz372@newschool.edu))
+
+**Period: 15 Weeks**
 
 ---
 
