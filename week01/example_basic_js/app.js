@@ -69,8 +69,8 @@ var alsoObject = {
 	height: 200
 };
 // Working with Object
-JSON.parse();
-JSON.stringify();
+// JSON.parse();
+// JSON.stringify();
 for(var k in alsoObject) {
 
 }
@@ -85,6 +85,17 @@ var plusAWithB = function(a, b) {
 function ThisIsAlsoAFunction() {
 
 }
+
+// immediately invoked function
+(function() {
+	// something here
+})();
+
+// or
+!function() {
+	console.log('I am taking off');
+}();
+
 
 // JS class (high-level object)
 // A blueprint of a thing
@@ -116,11 +127,20 @@ var rand = function(min, max) {
 };
 
 // Time
+// Looping a function every x millisec
+// var interval = setInterval(function() {
+// 	console.log('every one second');
+// }, 1000);
 
-
-var interval = setInterval(function() {
-	console.log('every one second');
+setTimeout(function() {
+	console.log('firing in one second');
 }, 1000);
+
+// UNIX timestamp
+var now = new Date();
+console.log(now.getTime());
+
+// Checkout moment.js
 
 // homework, a G-Shock style timer.
 // Create a class-object that simulate a simple #second# timer. (Look at your phone's timer, for instance)
