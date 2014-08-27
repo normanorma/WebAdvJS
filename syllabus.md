@@ -76,19 +76,19 @@ By the nature of design/tech class, syllabus modification is normal later in the
 |---|---|---|---|---|
 |08.27|Tools of the trade and kindergarten JS: statements, expressions, data-types and manipulations, DOM interaction, Class vs. Object vs. Instance, Closures, return, patterns, built-in APIs, repeitions, loops, operations, OOP, etc, etc. | Sublime Text 2, Prepros, GitHub, Google Chrome | Build something similiar to: [wtf](http://whatthefuckismywearablestrategy.com/)||
 |09.03|Elementary JS: Events, client-side external APIs, in-depth DOM interaction, File setup guildlines, Work environment, preprocessing, live-reloading.|Prepros| Create a new object with behaviors. ||
-|09.10|Introducing concept of MVC (Model-View-Controller). Write a tracking app together in class.|MVC framework|||
-|09.17|MVC Cont. finish tracking app||||
-|09.24|||||
-|10.01|||||
-|10.08|||||
-|10.15|||||
-|10.22|||||
-|10.29|||||
-|11.05|||||
-|11.12|||||
-|11.19|||||
-|12.03|||||
-|12.10|||||
+|09.10|Introducing concept of MVC (Model-View-Controller) and the power of single-page application. Write a tracking app together in class.|MVC framework|Come up with your own "Tracking" Application using MVC framework.||
+|09.17|MVC Cont. tracking app. (with LocalStorage)||||
+|09.24|Introduce Angular.js||||
+|10.01|Midterm Presentation.||Students present final outcome.|
+|10.08|Start fresh with Node.js, basic built-in modules, scraping techniques. In class workshop: Scraping Google Trends, build our own dataset. Introduce Cron job.||Plan to collect your own data from online sources.|||
+|10.15|Introduce Parse database served as online storage, write APIs, perform CRUD.|Parse|||
+|10.22|Node.js and social media APIs||||
+|10.29|Node.js and socket.io||||
+|11.05|Node.js and socket.io (Cont.)||||
+|11.12|Porting Application on Mobile with Phonegap||||
+|11.19|Final Project Workshop||||
+|12.03|Final Project Workshop||||
+|12.10|Final Project Presentation.|Invite guest critiques|||
 
 #### Final Grade Calculation: 
   * Participation/Attendance 20%
