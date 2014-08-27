@@ -3,39 +3,5 @@ WebAdvJS
 
 #### Web Advanced JavaScript Class for Parsons The New School for Design, Fall 2014
 
-- Every Wednesday night (7.00 - 9.40 PM)
-- 16 Weeks
-- 2 main components (client-side and server-side JavaScript)
-- 4 fun projects
-
-#### Rules
-- Be true to your work, your friends, and your teacher
-
-#### Evaluations
-- Punctuation; please be in class on time, respect your teacher and friends. Waiting slows down the class. It affects the whole learning process.
-- Weekly homework
-- Projects
-
-#### Classes
-- Week 01
-
-Intro to JavaScript, Programming Language (interpreter and compiler), intro to browser (control your internet browser like a pro), Command-line tools, GitHub (for homework submission)
-
-Write the first JS function
-
-- Week 02
-- Week 03
-- Week 04
-- Week 05
-- Week 06
-- Week 07
-- Week 08
-- Week 09
-- Week 10
-- Week 11
-- Week 12
-- Week 13
-- Week 14
-- Week 15
-- Week 16
+## Nothing much here now. But if you're here for a syllabus -> [boom](https://github.com/palaa159/WebAdvJS/blob/master/syllabus.md)
 
